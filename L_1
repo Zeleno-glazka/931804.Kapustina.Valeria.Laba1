@@ -1,2 +1,5 @@
 <title>Web Lab 1</title>
+body{
+ background-color: #D4E6B3;
+}
 <h1>Go!</h1>
